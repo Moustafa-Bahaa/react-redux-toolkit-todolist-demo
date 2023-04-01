@@ -1,0 +1,13 @@
+.tasks input {
+  padding: 10px;
+  border: 1px solid;
+  margin-right: 10px;
+}
+.tasks button {
+  width: 100px;
+  height: 40px;
+  color: green;
+  border: none;
+  background-color: black;
+  cursor: pointer;
+}
